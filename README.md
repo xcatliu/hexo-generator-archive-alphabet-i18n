@@ -79,10 +79,12 @@ See ??? for more details.
 
 ## Options
 
+```yml
 archive_generator:
   per_page: 10
+```
 
 - per_page: Posts displayed per page. (0 = disable pagination)
 
 [hexo-generator-archive]: https://github.com/hexojs/hexo-generator-archive
-[hexo-generator-arvhive-alphabet]: https://github.com/xcatliu/hexo-generator-archive-alphabet
+[hexo-generator-archive-alphabet]: https://github.com/xcatliu/hexo-generator-archive-alphabet
