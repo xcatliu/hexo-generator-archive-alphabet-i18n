@@ -1,5 +1,8 @@
 # hexo-generator-archive-alphabet-i18n
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/hexo-generator-archive-alphabet-i18n.svg)](https://greenkeeper.io/)
+
+
 Generate i18n alphabetical archive for Hexo.
 
 It will generate a `:lang/archive.html` for each language, the archive page is sorted by alphabet.
