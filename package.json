@@ -26,11 +26,11 @@
   "homepage": "https://github.com/xcatliu/hexo-generator-archive-alphabet-i18n#readme",
   "dependencies": {
     "hexo-pagination": "^0.1.0",
-    "transliteration": "^1.1.5"
+    "transliteration": "^2.1.3"
   },
   "devDependencies": {
-    "eslint": "^2.13.1",
-    "eslint-config-airbnb-base": "^3.0.1",
-    "eslint-plugin-import": "^1.8.1"
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
   }
 }
